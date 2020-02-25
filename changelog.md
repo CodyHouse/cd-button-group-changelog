@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.3] - 2020-02-25
+- Gap options are now compatible with CodyFrame gap util classes
+
 ## [1.0.2] - 2020-01-13
 - Added gap options + minor improvements
 
